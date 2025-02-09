@@ -13,6 +13,6 @@ form.addEventListener('submit', (e) => {
 		resultDiv.innerHTML = 'Baby';
 		window.location.href = nextPageUrl; // Redirect to new page
 	} else {
-		resultDiv.innerHTML = 'Noo you can't be my wifey,where is my wifey katyusha';
+		resultDiv.innerHTML = 'Noo you cant be my wifey,where is my wifey katyusha';
 	}
 });
